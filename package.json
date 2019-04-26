@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dmarchante/portfolio#readme",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "express": "^4.16.4"
   }
 }
