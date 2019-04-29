@@ -51,3 +51,13 @@ Credits:
 	Finish time: 10:30
 
 	Actual time needed to complete: 1:45
+
+## Number and name of feature: Feature #1: Add functionality
+
+	Estimate of time needed to complete: 1.5 hours
+
+	Start time: 9:00
+
+	Finish time: 11:30
+
+	Actual time needed to complete: 3.5 hours
